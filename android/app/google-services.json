@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "157230959143",
+    "firebase_url": "https://ctracker-c31e8.firebaseio.com",
+    "project_id": "ctracker-c31e8",
+    "storage_bucket": "ctracker-c31e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:157230959143:android:817c9552450f81088ddc02",
+        "android_client_info": {
+          "package_name": "com.codememory.ctracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "157230959143-i7fheu3jlst6omeg5rtu6688unv8e2mu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeMQebM04xlMCkbxFhAaXholC2TE3_KZ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "157230959143-i7fheu3jlst6omeg5rtu6688unv8e2mu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "157230959143-2doo96jrv3gfdiaigddiiaqdipa36m1l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.codememory.ctracker"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
